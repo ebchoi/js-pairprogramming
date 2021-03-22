@@ -1,4 +1,11 @@
-// #5. 특정 요소 삭제
+/*
+5. 특정 요소 삭제
+
+todos에서 삭제할 요소의 id를 인수로 전달하면 해당 요소를 삭제하는 함수를 작성하라.
+
+[CODE EXPLAINED]
+
+*/
 
 let todos = [
     { id: 3, content: 'HTML', completed: false },

@@ -1,4 +1,13 @@
-// #6 특정 요소의 프로퍼티 값 반전 
+/* 
+6. 특정 요소의 프로퍼티 값 반전 
+
+todos에서 대상 요소의 id를 인수로 전달하면 해당 요소의 completed 프로퍼티 값을 반전하는 함수를 작성하라.
+
+hint) 기존 객체의 특정 프로퍼티를 변경/추가하여 새로운 객체를 생성하려면 Object.assign 또는 스프레드 문법을 사용한다.
+
+[CODE EXPLAINED]
+
+*/
 
 let todos = [
   { id: 3, content: 'HTML', completed: false },

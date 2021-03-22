@@ -1,12 +1,11 @@
-/* 3. Array HOF 연습 문제
+/* 
+1. HTML 생성
 
-https://poiemaweb.com/fastcampus-exercise/exercise-hof
+아래 배열을 사용하여 html을 생성하는 함수를 작성하라.
 
+[CODE EXPLAINED]
 
 */
-
-// #1 HTML 생성
-
 const todos = [
   { id: 3, content: "HTML", completed: false },
   { id: 2, content: "CSS", completed: true },
